@@ -1,10 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This is a simple drawing app using React, Next.js 13, TypeScript and Canvas and deployed on Vercel. [The react-color library](https://www.npmjs.com/package/react-color) is used for Color Picker feature. 
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This is a simple drawing app using React, Next.js 13, TypeScript and Canvas and deployed on [Vercel](https://vercel.com/). [The react-color library](https://www.npmjs.com/package/react-color) is used for Color Picker feature. 
 
 ## Demo
 
 https://drawing-app-zeta.vercel.app/  
 
-##Tutorial
+## Tutorial
 
 Check the tutorial on [Youtube](https://www.youtube.com/watch?v=yOjJy0L7Rt8&t=1147s)
 
